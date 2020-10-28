@@ -1,0 +1,1 @@
+{"username":"rhalf","name":"Rhalf Oliveira","type":"Common","password":"0cc175b9c0f1b6a831c399e269772661","id":1}{"username":"joao","name":"João Import","type":"Common","password":"0cc175b9c0f1b6a831c399e269772661","id":2}{"username":"teste","name":"teste","type":"Administrator","password":"0cc175b9c0f1b6a831c399e269772661","id":3}
